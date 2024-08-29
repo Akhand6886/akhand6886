@@ -2,7 +2,7 @@
 </h1>
 <h3> DevOps and AIML Enthusiast</h3>
 <ul>
-<li> Connect with me on <a href="www.linkedin.com/in/akhand6886" target="_blank">LinkedIn.</a> 
+<li> Connect with me on <a href="www.linkedin.com/in/akhand6886/" target="_blank">LinkedIn.</a> 
 <img alt="Akhand Pratap Singh" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></li>
 </ul>
 
