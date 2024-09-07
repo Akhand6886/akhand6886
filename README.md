@@ -43,6 +43,6 @@
 </p>
 <br>
 
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhand6886&layout=compact&theme=dark&hide=PHP" alt="Top Languages" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhand6886&layout=compact&theme=highcontrast&hide=PHP" alt="Top Languages" /></div>
 <br>
-<div><img src="https://github-readme-stats.vercel.app/api?username=akhand6886&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22" alt="Github stats" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=akhand6886&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true%22" alt="Github stats" /></div>
