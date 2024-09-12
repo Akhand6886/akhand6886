@@ -1,12 +1,10 @@
 <h1> Hi, I'm Akhand Pratap Singh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></a>
 </h1>
 <h3> DevOps and AIML Enthusiast</h3>
-<ul>
-<li> Connect with me on <a href="www.linkedin.com/in/akhand6886/" target="_blank">LinkedIn.</a> 
-<img alt="Akhand Pratap Singh" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></li>
-</ul>
 
-
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/akhand6886/) 
+  
 <h2>Languages</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
