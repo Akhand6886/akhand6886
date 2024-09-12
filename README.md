@@ -3,7 +3,7 @@
 <h3> DevOps and AIML Enthusiast</h3>
 
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/akhand6886/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhand6886/) 
   
 <h2>Languages</h2>
 
