@@ -39,10 +39,7 @@
 <p>
 <!-- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<!-- <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></a>
-<a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/></a> -->
-<!--a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
-<a href="https://flutter.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a-->
+0" height="40"/></a-->
 </p>
 <h3>Tools:</h3>
 <p>
@@ -50,9 +47,9 @@
 <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-<!-- a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> -->
+
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>  
-<!-- <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a > -->
+
 </p>
 <br>
 
