@@ -10,12 +10,10 @@
 
 ---
 
-### 🌟 Current Projects & Interests
-🔋 **Solar Panel Automation** - Developing intelligent 6-panel solar systems (2S3P configuration)  
-📖 **"Anime and Life"** - Self-help book series exploring life lessons from anime/manga  
-🌐 **Nocturnal Codex** - Sophisticated web application for CS & mathematics  
-🎌 **Mangamotive** - Daily quote curator from anime, manga & light novels  
-💡 **IoT Automation** - Smart home and energy management systems
+### 🌟 Current Projects & Interests 
+<!-- 📖 **"Anime and Life"** - Self-help book series exploring life lessons from anime/manga  -->
+🌐 **Nocturnal Codex** - Sophisticated web application for CS & mathematics.  
+🎌 **Mangamotive** - Daily quote curator from anime, manga & light novels.
 
 ---
 
@@ -54,11 +52,9 @@
 ---
 
 ### 🎨 Beyond Code
-📚 **Author** - Writing self-help books inspired by anime philosophy  
+ <!--📚 **Author** - Writing self-help books inspired by anime philosophy  -->
 🎌 **Content Creator** - Sharing daily wisdom through @Mangamotive  
-⚡ **Solar Innovator** - Designing automation systems for renewable energy  
 🌸 **Japanese Culture Enthusiast** - Exploring Eastern philosophy & storytelling  
-🔬 **IoT Explorer** - Building smart automation solutions
 
 ---
 
