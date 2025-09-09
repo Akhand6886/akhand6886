@@ -1,6 +1,6 @@
 <h1>Hi, I'm Akhand Pratap Singh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3>🚀 DevOps & AI/ML Enthusiast | 📚 Author & Creative Writer | ⚡ Solar Tech Innovator</h3>
+<h3>🚀 DevOps & AI/ML Enthusiast </h3>
 
 > *"Building the future through code, creativity, and clean energy"*
 
