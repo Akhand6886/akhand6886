@@ -61,24 +61,18 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/akhand6886">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhand6886&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhand6886&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhand6886&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhand6886&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhand6886&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akhand6886&theme=tokyonight" />
+</p>
 
 ## 🎌 Beyond the Terminal
 
